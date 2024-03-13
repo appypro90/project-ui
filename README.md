@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Environment setuo
+## Environment setup
 install nvm.
 Install and use node version 21.6.2
 run npm i --force
